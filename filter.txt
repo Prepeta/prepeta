@@ -12,6 +12,6 @@ gshow.globo.com##.dZfX1 > div > div > .bbb-cta
 gshow.globo.com##.h7CeY.B0iSk > .bbb-cta > .bbb-cta-container
 
 ! 2024-03-26 https://gshow.globo.com
-gshow.globo.com##li.UUpyD:nth-of-type(4)
-gshow.globo.com##li.UUpyD:nth-of-type(3)
 gshow.globo.com##li.UUpyD:nth-of-type(1)
+gshow.globo.com##li.UUpyD:nth-of-type(3)
+! gshow.globo.com##li.UUpyD:nth-of-type(1)
