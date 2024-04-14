@@ -14,6 +14,7 @@ gshow.globo.com##.h7CeY.B0iSk > .bbb-cta > .bbb-cta-container
 ! 2024-03-26 https://gshow.globo.com
 
 ! 2024-04-07 https://gshow.globo.com
-gshow.globo.com##li.UUpyD:nth-of-type(2)
-gshow.globo.com##li.UUpyD:nth-of-type(1)
 
+! 2024-04-13 https://gshow.globo.com
+gshow.globo.com##li.UUpyD:nth-of-type(3)
+gshow.globo.com##li.UUpyD:nth-of-type(1)
